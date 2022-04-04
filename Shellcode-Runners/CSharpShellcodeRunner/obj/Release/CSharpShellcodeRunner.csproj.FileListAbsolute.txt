@@ -1,0 +1,7 @@
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\bin\Release\CSharpShellcodeRunner.exe.config
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\bin\Release\CSharpShellcodeRunner.exe
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\bin\Release\CSharpShellcodeRunner.pdb
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\obj\Release\CSharpShellcodeRunner.csproj.CoreCompileInputs.cache
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\obj\Release\CSharpShellcodeRunner.exe
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\obj\Release\CSharpShellcodeRunner.pdb
+\\192.168.49.55\visualstudio\CSharpShellcodeRunner\obj\Release\CSharpShellcodeRunner.csprojAssemblyReference.cache
