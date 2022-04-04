@@ -4,4 +4,4 @@ A collection of tools I wrote or improved upon while studying for the OSEP exam.
 
 ## Getting Started
 
-All of the C# projects were written, compiled, and tested using .NET version 4.7.2 in Visual Studio 2019. The other languages (C in particular) have the compiling instructions embedded as comments within the code. 
+All of the C# projects were written, compiled, and tested using .NET version 4.7.2 in Visual Studio 2019. The other languages (C in particular) have the compiling instructions embedded as comments within the code. This project is a work in progress and will be updated on a regular basis.
