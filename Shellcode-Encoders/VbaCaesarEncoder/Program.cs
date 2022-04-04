@@ -13,7 +13,7 @@ namespace VbaCaesarBufEncrypter
             // insert 32-bit csharp shellcode
             byte[] buf = new byte[1] { 0x3c };
 
-            // perform caesar shift (+6) and bitwise AND to 0xFF
+            // perform caesar shift (+2) and bitwise AND to 0xFF
             Console.WriteLine("[+] Encrypting shellcode");
             byte[] crypt = new byte[buf.Length];
             for (int i = 0; i < buf.Length; i++)
