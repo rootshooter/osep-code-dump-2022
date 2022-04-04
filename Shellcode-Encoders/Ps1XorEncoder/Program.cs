@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ps1XorBufEncrypter
+namespace Ps1XorEncoder
 {
     class Program
     {
