@@ -10,7 +10,7 @@ namespace Ps1XorBufEncrypter
     {
         static void Main(string[] args)
         {
-            // insert 32- or 64-bit meterpreter chsharp shellcode
+            // insert 32- or 64-bit chsharp shellcode
             byte[] buf = new byte[1] { 0x18 };
 
             // perfrom xor with key 0x3c
