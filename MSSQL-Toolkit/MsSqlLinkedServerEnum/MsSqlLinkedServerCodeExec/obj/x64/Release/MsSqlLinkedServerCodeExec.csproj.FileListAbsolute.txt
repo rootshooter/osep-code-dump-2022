@@ -1,0 +1,7 @@
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\bin\x64\Release\MsSqlLinkedServerCodeExec.exe.config
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\bin\x64\Release\MsSqlLinkedServerCodeExec.exe
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\bin\x64\Release\MsSqlLinkedServerCodeExec.pdb
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\obj\x64\Release\MsSqlLinkedServerCodeExec.csproj.CoreCompileInputs.cache
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\obj\x64\Release\MsSqlLinkedServerCodeExec.exe
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\obj\x64\Release\MsSqlLinkedServerCodeExec.pdb
+\\192.168.49.186\visualstudio\MsSqlLinkedServerCodeExec\obj\x64\Release\MsSqlLinkedServerCodeExec.csprojAssemblyReference.cache
