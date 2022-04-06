@@ -1,0 +1,7 @@
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\bin\x64\Release\MsSqlLinkedServerEnum.exe.config
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\bin\x64\Release\MsSqlLinkedServerEnum.exe
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\bin\x64\Release\MsSqlLinkedServerEnum.pdb
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\obj\x64\Release\MsSqlLinkedServerEnum.csprojAssemblyReference.cache
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\obj\x64\Release\MsSqlLinkedServerEnum.csproj.CoreCompileInputs.cache
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\obj\x64\Release\MsSqlLinkedServerEnum.exe
+\\192.168.49.186\visualstudio\MsSqlLinkedServerEnum\obj\x64\Release\MsSqlLinkedServerEnum.pdb
