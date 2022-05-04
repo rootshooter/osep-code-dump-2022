@@ -5,7 +5,7 @@ exec sp_linkedservers;
 ```
 If there is a server link, I can use openquery to run queries on the remote SQL server. I can select the MSSQL version with the following command:
 ```sql
-select version from openquery("<target>", 'select @@version as version')
+select version from openquery("<target>", 'select @@version as version');
 ```
 If I have access, I can enable xp_cmdshell through the server link with the following command:
 ```sql
