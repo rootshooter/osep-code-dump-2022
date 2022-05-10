@@ -1,0 +1,7 @@
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\bin\x64\Release\SharpInject.exe.config
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\bin\x64\Release\SharpInject.exe
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\bin\x64\Release\SharpInject.pdb
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\obj\x64\Release\SharpInject.csproj.AssemblyReference.cache
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\obj\x64\Release\SharpInject.csproj.CoreCompileInputs.cache
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\obj\x64\Release\SharpInject.exe
+\\10.23.1.209\visualstudio\toolkit-final\SharpInject\obj\x64\Release\SharpInject.pdb
