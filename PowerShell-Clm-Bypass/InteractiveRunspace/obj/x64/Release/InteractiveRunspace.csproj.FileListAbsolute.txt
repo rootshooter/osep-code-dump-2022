@@ -1,0 +1,9 @@
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\bin\x64\Release\InteractiveRunspace.exe.config
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\bin\x64\Release\InteractiveRunspace.exe
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\bin\x64\Release\InteractiveRunspace.pdb
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\bin\x64\Release\System.Management.Automation.dll
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\obj\x64\Release\InteractiveRunspace.csproj.AssemblyReference.cache
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\obj\x64\Release\InteractiveRunspace.csproj.CoreCompileInputs.cache
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\obj\x64\Release\InteractiveRunspace.csproj.CopyComplete
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\obj\x64\Release\InteractiveRunspace.exe
+\\10.23.1.209\visualstudio\toolkit-final\InteractiveRunspace\obj\x64\Release\InteractiveRunspace.pdb
