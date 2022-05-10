@@ -67,7 +67,7 @@ namespace InteractiveRunspace
 
             while (true)
             {
-                Console.Write($"PS {cwd} >");
+                Console.Write($"PS {cwd}>");
                 cmd = Console.ReadLine();
 
                 if (String.Equals(cmd, "exit"))
