@@ -1,0 +1,7 @@
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\bin\x64\Release\SharpHollow.exe.config
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\bin\x64\Release\SharpHollow.exe
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\bin\x64\Release\SharpHollow.pdb
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.csproj.AssemblyReference.cache
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.csproj.CoreCompileInputs.cache
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.exe
+\\10.23.1.209\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.pdb

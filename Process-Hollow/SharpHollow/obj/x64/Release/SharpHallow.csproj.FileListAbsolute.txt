@@ -1,0 +1,7 @@
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\bin\x64\Release\SharpHollow.exe.config
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\bin\x64\Release\SharpHollow.exe
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\bin\x64\Release\SharpHollow.pdb
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.csprojAssemblyReference.cache
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.csproj.CoreCompileInputs.cache
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.exe
+\\192.168.49.176\visualstudio\toolkit-final\SharpHollow\obj\x64\Release\SharpHollow.pdb
