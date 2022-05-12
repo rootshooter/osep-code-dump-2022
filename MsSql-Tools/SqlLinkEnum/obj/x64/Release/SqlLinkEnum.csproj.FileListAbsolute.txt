@@ -1,0 +1,6 @@
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkEnum\bin\x64\Release\SqlLinkEnum.exe.config
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkEnum\bin\x64\Release\SqlLinkEnum.exe
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkEnum\bin\x64\Release\SqlLinkEnum.pdb
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkEnum\obj\x64\Release\SqlLinkEnum.csprojAssemblyReference.cache
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkEnum\obj\x64\Release\SqlLinkEnum.exe
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkEnum\obj\x64\Release\SqlLinkEnum.pdb
