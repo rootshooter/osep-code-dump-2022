@@ -1,0 +1,6 @@
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkShell\bin\x64\Release\SqlLinkShell.exe.config
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkShell\bin\x64\Release\SqlLinkShell.exe
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkShell\bin\x64\Release\SqlLinkShell.pdb
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkShell\obj\x64\Release\SqlLinkShell.csprojAssemblyReference.cache
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkShell\obj\x64\Release\SqlLinkShell.exe
+\\192.168.49.176\visualstudio\toolkit-final\SqlLinkShell\obj\x64\Release\SqlLinkShell.pdb
