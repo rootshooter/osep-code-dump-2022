@@ -85,9 +85,6 @@ namespace SqlLinkShell
                             Console.WriteLine($"{read[0]}");
                             read.Close();
 
-                            const int BufferSize = 4000;
-                            Console.SetIn(new StreamReader(Console.OpenStandardInput(), Encoding.UTF8, false, BufferSize));
-
                             while (true)
                             {
                                 Console.Write($"MSSQL {cwd}> ");
