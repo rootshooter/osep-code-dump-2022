@@ -53,7 +53,7 @@ namespace SqlShell
             }
             read.Close();
 
-            String adm = "select is_srvrolemember('sysadmin');";
+           String adm = "select is_srvrolemember('sysadmin');";
             cmd = new SqlCommand(adm, conn);
             read = cmd.ExecuteReader();
             read.Read();
@@ -61,11 +61,11 @@ namespace SqlShell
 
             if (role == 1)
             {
-                Console.WriteLine("[+] User is a member of public role");
+                Console.WriteLine("[+] User is a sysadmin");
             }
             else
             {
-                Console.WriteLine("[-] User is NOT a member of public role");
+                Console.WriteLine("[-] User is NOT a sysadmin");
             }
             read.Close();
 
