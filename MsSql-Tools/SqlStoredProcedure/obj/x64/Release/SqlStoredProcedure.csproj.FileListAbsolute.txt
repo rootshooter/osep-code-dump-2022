@@ -1,0 +1,5 @@
+\\192.168.49.176\visualstudio\toolkit-final\SqlStoredProcedure\bin\x64\Release\SqlStoredProcedure.dll
+\\192.168.49.176\visualstudio\toolkit-final\SqlStoredProcedure\bin\x64\Release\SqlStoredProcedure.pdb
+\\192.168.49.176\visualstudio\toolkit-final\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.csprojAssemblyReference.cache
+\\192.168.49.176\visualstudio\toolkit-final\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.dll
+\\192.168.49.176\visualstudio\toolkit-final\SqlStoredProcedure\obj\x64\Release\SqlStoredProcedure.pdb

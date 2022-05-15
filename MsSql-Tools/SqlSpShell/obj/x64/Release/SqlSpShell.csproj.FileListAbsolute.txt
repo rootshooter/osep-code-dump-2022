@@ -1,0 +1,6 @@
+\\192.168.49.176\visualstudio\toolkit-final\SqlSpShell\bin\x64\Release\SqlSpShell.exe.config
+\\192.168.49.176\visualstudio\toolkit-final\SqlSpShell\bin\x64\Release\SqlSpShell.exe
+\\192.168.49.176\visualstudio\toolkit-final\SqlSpShell\bin\x64\Release\SqlSpShell.pdb
+\\192.168.49.176\visualstudio\toolkit-final\SqlSpShell\obj\x64\Release\SqlSpShell.exe
+\\192.168.49.176\visualstudio\toolkit-final\SqlSpShell\obj\x64\Release\SqlSpShell.pdb
+\\192.168.49.176\visualstudio\toolkit-final\SqlSpShell\obj\x64\Release\SqlSpShell.csprojAssemblyReference.cache
